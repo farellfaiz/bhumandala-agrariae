@@ -6,10 +6,10 @@ body {
   font-family: "IBM Plex Sans", sans-serif;
 }
 
-html,
+/* html,
 body {
   height: 100%;
-}
+} */
 
 a {
   text-decoration: none;
