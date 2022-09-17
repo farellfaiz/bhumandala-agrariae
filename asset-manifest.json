@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.24f3fe02.css",
-    "main.js": "/static/js/main.cf8c810d.js",
+    "main.css": "/static/css/main.af1dd03e.css",
+    "main.js": "/static/js/main.13d0a410.js",
     "static/media/IBMPlexSans-MediumItalic.ttf": "/static/media/IBMPlexSans-MediumItalic.b5d2aae060bd17a44e92.ttf",
     "static/media/IBMPlexSans-BoldItalic.ttf": "/static/media/IBMPlexSans-BoldItalic.2154ceb10b0ff9a38ed6.ttf",
     "static/media/IBMPlexSans-Italic.ttf": "/static/media/IBMPlexSans-Italic.3c841fd3d99ee585c6cd.ttf",
@@ -10,11 +10,11 @@
     "static/media/IBMPlexSans-Bold.ttf": "/static/media/IBMPlexSans-Bold.c6aebfe2ea10a16d4a22.ttf",
     "static/media/putih-merah.png": "/static/media/putih-merah.c64f8ed7e68c22f08c15.png",
     "index.html": "/index.html",
-    "main.24f3fe02.css.map": "/static/css/main.24f3fe02.css.map",
-    "main.cf8c810d.js.map": "/static/js/main.cf8c810d.js.map"
+    "main.af1dd03e.css.map": "/static/css/main.af1dd03e.css.map",
+    "main.13d0a410.js.map": "/static/js/main.13d0a410.js.map"
   },
   "entrypoints": [
-    "static/css/main.24f3fe02.css",
-    "static/js/main.cf8c810d.js"
+    "static/css/main.af1dd03e.css",
+    "static/js/main.13d0a410.js"
   ]
 }
