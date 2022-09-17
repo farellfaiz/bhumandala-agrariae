@@ -38,9 +38,9 @@ class App extends React.Component {
               <h1>Bhumandala Agrariae</h1>
               <p className='deskripsi' align='center'>Sebuah aksi angkatan Teknik Geodesi dan Geomatika ITB 2021 yang berisikan kegiatan sosial masyarakat dan aktivasi ruang, webinar, podcast, propaganda, dan pengembangan sistem informasi geografis yang mengangkat isu konflik agraria di Kota Bandung.</p>
               <Box mt='30px'>
-                <Link mx='20px' href='https://www.arcgis.com/apps/instant/sidebar/index.html?appid=7e41d05499ea4cae97c0242b54f000a7'><Button leftIcon={<IoIosGlobe />} pr='20px' bg='white' color='gray.600' borderRadius='full'>WebGIS</Button></Link>
+                <Link href='https://www.arcgis.com/apps/instant/sidebar/index.html?appid=7e41d05499ea4cae97c0242b54f000a7'><Button leftIcon={<IoIosGlobe />} pr='20px' bg='white' color='gray.600' borderRadius='full'>WebGIS</Button></Link>
                 <Link mx='20px' href='https://bit.ly/WebinarBhumandalaAgr'><Button leftIcon={<BiVideo />} pr='20px' bg='white' color='gray.600' borderRadius='full'>Webinar</Button></Link>
-                <Link mx='20px' href='#'><Button leftIcon={<BsMic />} pr='20px' bg='white' color='gray.600' borderRadius='full'>Podcast</Button></Link>
+                <Link href='#'><Button leftIcon={<BsMic />} pr='20px' bg='white' color='gray.600' borderRadius='full'>Podcast</Button></Link>
               </Box>
             </div>
           </div>
