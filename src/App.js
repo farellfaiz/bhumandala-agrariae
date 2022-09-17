@@ -58,19 +58,11 @@ class App extends React.Component {
           <Heading my={5} color='#e0e0e0' size='lg'>
             WebGIS Peta Konflik Agraria Kota Bandung
           </Heading>
-          <Box 
-            bg='#000'
-            borderRadius='20px'
-            overflow='hidden'
-            width='85%'
-          >
-            <Iframe url="https://www.arcgis.com/apps/instant/sidebar/index.html?appid=7e41d05499ea4cae97c0242b54f000a7"
-              width="100%"
-              height="800px"
-              display="initial"
-              position="relative"
-            />
-          </Box>
+          <Iframe url="https://www.arcgis.com/apps/instant/sidebar/index.html?appid=7e41d05499ea4cae97c0242b54f000a7"
+            width="85%"
+            height="700px"
+            display="initial"
+          />
           <Link 
             mt='10px'
             href='https://www.arcgis.com/apps/instant/sidebar/index.html?appid=7e41d05499ea4cae97c0242b54f000a7'
