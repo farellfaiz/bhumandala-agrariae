@@ -41,10 +41,10 @@ class App extends React.Component {
               <Box mt='30px'>
                 <Wrap w='100%' display='flex' justifyContent='center' mb='10px'>
                   <WrapItem>
-                  <Link href='#'><Button leftIcon={<BsMic />} pr='20px' bg='white' color='gray.600' borderRadius='full'>Podcast</Button></Link>
+                  <Link href='https://www.youtube.com/watch?v=8wYlvj0Es2w'><Button leftIcon={<BsMic />} pr='20px' bg='white' color='gray.600' borderRadius='full'>Podcast</Button></Link>
                   </WrapItem>
                   <WrapItem>
-                    <Link mx='10px' href='https://bit.ly/WebinarBhumandalaAgr'><Button leftIcon={<BiVideo />} pr='20px' bg='white' color='gray.600' borderRadius='full'>Webinar</Button></Link>
+                    <Link mx='10px' href='https://www.youtube.com/watch?v=Ge3BbH7nsy4'><Button leftIcon={<BiVideo />} pr='20px' bg='white' color='gray.600' borderRadius='full'>Webinar</Button></Link>
                   </WrapItem>
                 </Wrap>
                 <Link href='https://www.arcgis.com/apps/instant/sidebar/index.html?appid=7e41d05499ea4cae97c0242b54f000a7'><Button leftIcon={<IoIosGlobe />} pr='20px' bg='white' color='gray.600' borderRadius='full'>WebGIS</Button></Link>
@@ -193,7 +193,7 @@ class App extends React.Component {
                 • Pukul: 13.30 - 16.00<br />
                 • Tempat: <Link textStyle='bold' href='https://bit.ly/WebinarBhumandalaAgr'><b>Zoom</b></Link><br /><br />
                 </Text>
-                <Link href='https://bit.ly/WebinarBhumandalaAgr'><Button colorScheme='red'>Masuk ke Webinar</Button></Link>
+                <Link href='https://www.youtube.com/watch?v=Ge3BbH7nsy4'><Button colorScheme='red'>Masuk ke Webinar</Button></Link>
               </TabPanel>
               <TabPanel color='#dedede'>
                 <center>
@@ -212,7 +212,7 @@ class App extends React.Component {
                 <Text mt='20px'>
                   Sama seperti webinar, podcast adalah wadah pencerdasan massal yang dikemas secara menarik dan on-demand mengenai konflik agraria yang ada di Kota Bandung menurut sudut pandang keilmuan Teknik Geodesi dan Geomatika. Podcast kali ini diisi oleh narasumber dari dosen Teknik Geodesi dan Geomatika, yaitu Dr. Andri Hernandi, S.T, M.T.<br /><br />
                 </Text>
-                <Link href='#'><Button colorScheme='red'>Coming Soon</Button></Link>
+                <Link href='https://www.youtube.com/watch?v=8wYlvj0Es2w'><Button colorScheme='red'>Dengar di sini!</Button></Link>
               </TabPanel>
             </TabPanels>
           </Tabs>
